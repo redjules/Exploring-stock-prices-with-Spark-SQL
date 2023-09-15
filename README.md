@@ -1,7 +1,17 @@
 # Exploring stock prices with Spark SQL
 
 # Project description
-In this project, we initialize a Spark program, load datasets from a file, interact with the data using RDDs and DataFrames, and perform exploratory analysis using Spark SQL.
+In this project, I initialize a Spark program, load datasets from a file, interact with the data using RDDs and DataFrames, and perform exploratory analysis using Spark SQL.
+
+# Datasets
+We use 3 csv files with stock data:
+- AMZN.csv
+- GOOG.csv
+- TSLA.csv
+
+# Environment
+
+A Jupiter Notebook is used to do all the calculations.
 
 # Goals
 In this project, we will:
