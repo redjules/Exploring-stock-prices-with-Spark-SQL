@@ -11,7 +11,7 @@ We use 3 csv files with stock data:
 
 # Environment
 
-A Jupiter Notebook (SparkSQL.ipynb) is used to do all the calculations.
+A Jupyter Notebook (SparkSQL.ipynb) is used to do all the calculations.
 
 # Goals
 In this project, we will:
